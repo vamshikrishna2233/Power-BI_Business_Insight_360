@@ -23,3 +23,6 @@ The dashboard draws data from two primary sources:
 *1. Excel/CSV Files:* Retrieves Targets, Market Share data, and associated information from Excel and CSV files.
 
 *2. MySQL Database:* Extracts Facts and Dimensions for all departments from a MySQL database.
+
+## Screenshots
+
